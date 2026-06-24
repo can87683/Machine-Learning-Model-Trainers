@@ -1,3 +1,16 @@
+# Usa 
+Running as Python scripts is most efficient.
+One Python Venv for all scripts with one heavy Pytorch setup
+
+# Compiling
+If you must run as binary:
+Ask any free LLM to help compile (very easily) in to binary in your OS setup.
+Everyone has different configurations.
+Providing binaries for Windows alone can be tedious.
+For Debian/Ubuntu compiling, it is straightforward.
+But each trainer binary will be very heavy with full Pytorch et al bundled (about five GB+)
+Better run as Python scripts in Venv
+
 # Machine-Learning-Model-Trainers
 Machine Learning Model Trainers
 
