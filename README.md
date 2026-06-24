@@ -14,33 +14,15 @@ Better run as Python scripts in Venv
 # Machine-Learning-Model-Trainers
 Machine Learning Model Trainers
 
-# Catboost (Categorical Boosting) Model Trainer
-
-# FFNN (Feedforward Neural Network) Model Trainer
-
-# Gradient (Boosting) Model Trainer
-
-# GRU (Gated Recurrent Unit) Model Trainer
-
-# LightGBM (Light Gradient Boosting Machine) Model Trainer
-
-# LSTM (Long Short-Term Memory) Model Trainer
-
-# RF (Random Forest) Model Trainer
-
-# TFT (Temporal Fusion Transformer) Model Trainer
-
-# XGBoost (Extreme Gradient Boosting) Model Trainer
-
-FFNN - Basic classification and regression
-GRU	- Sequential data / NLP (efficient)
-LSTM - Sequential data / Long-term patterns
-GBM - Machine	Tabular data / Competition winning
-TFT - Complex time series forecasting
-XGBoost - High-performance tabular data prediction and competitions.
-LightGBM - Fast, leaf-wise tree growth for massive tabular datasets.
-CatBoost - Tabular data with many non-numeric (string/label) features.
-RF - Robust ensemble learning; great ""baseline"" for tabular data.
+Catboost (Categorical Boosting) Model Trainer
+FFNN (Feedforward Neural Network) Model Trainer
+Gradient (Boosting) Model Trainer
+GRU (Gated Recurrent Unit) Model Trainer
+LightGBM (Light Gradient Boosting Machine) Model Trainer
+LSTM (Long Short-Term Memory) Model Trainer
+RF (Random Forest) Model Trainer
+TFT (Temporal Fusion Transformer) Model Trainer
+XGBoost (Extreme Gradient Boosting) Model Trainer
 
 # Other Popular ML Models
 SVM - Support Vector Machine - High-dimensional data classification (e.g., bioinformatics)
