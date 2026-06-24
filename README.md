@@ -1,4 +1,4 @@
-# Usa 
+# Use
 Running as Python scripts is most efficient.
 One Python Venv for all scripts with one heavy Pytorch setup
 
