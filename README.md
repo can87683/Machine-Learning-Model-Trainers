@@ -41,16 +41,6 @@ TFT (Temporal Fusion Transformer)
 XGBoost (Extreme Gradient Boosting)
 
 
-# Other Popular ML Models
-
-FFNN (Feedforward Neural Network) Model Trainer
-
-Gradient (Boosting) Model Trainer
-
-SVM - Support Vector Machine - High-dimensional data classification (e.g., bioinformatics)
-
-LR - Logistic/Linear Regression - Simple, interpretable predictions and baseline statistical modeling
-
 ViT - Vision Transformer - State-of-the-art image recognition and computer vision tasks
 
 Prophet - Prophet - Time-series forecasting for data with heavy seasonality/holidays
