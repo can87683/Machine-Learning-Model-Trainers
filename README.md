@@ -22,21 +22,23 @@ Better run as Python scripts in Venv
 
 # Machine-Learning-Model-Trainers
 
-Catboost (Categorical Boosting) Model Trainer
+Catboost (Categorical Boosting)
 
-CNN - Convolutional Neural Network - Traditional image processing and spatial pattern recognition
+CNN (Convolutional Neural Network)
 
-GRU (Gated Recurrent Unit) Model Trainer
+GRU (Gated Recurrent Unit)
 
-LightGBM (Light Gradient Boosting Machine) Model Trainer
+LightGBM (Light Gradient Boosting Machine)
 
-LSTM (Long Short-Term Memory) Model Trainer
+LSTM (Long Short-Term Memory)
 
-RF (Random Forest) Model Trainer
+PatchTFT (Successor to TFT model)
 
-TFT (Temporal Fusion Transformer) Model Trainer
+TCN (Successor to CNN Model)
 
-XGBoost (Extreme Gradient Boosting) Model Trainer
+TFT (Temporal Fusion Transformer)
+
+XGBoost (Extreme Gradient Boosting)
 
 
 # Other Popular ML Models
