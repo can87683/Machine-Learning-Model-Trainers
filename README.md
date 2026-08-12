@@ -3,6 +3,7 @@ Running as Python scripts is most efficient.
 
 One Python Venv for all scripts with one heavy Pytorch setup
 
+
 # Compiling
 If you must run as binary:
 
@@ -18,8 +19,8 @@ But each trainer binary will be very heavy with full Pytorch et al bundled (abou
 
 Better run as Python scripts in Venv
 
+
 # Machine-Learning-Model-Trainers
-Machine Learning Model Trainers
 
 Catboost (Categorical Boosting) Model Trainer
 
@@ -36,6 +37,7 @@ RF (Random Forest) Model Trainer
 TFT (Temporal Fusion Transformer) Model Trainer
 
 XGBoost (Extreme Gradient Boosting) Model Trainer
+
 
 # Other Popular ML Models
 
