@@ -39,11 +39,3 @@ TCN (Successor to CNN Model)
 TFT (Temporal Fusion Transformer)
 
 XGBoost (Extreme Gradient Boosting)
-
-
-ViT - Vision Transformer - State-of-the-art image recognition and computer vision tasks
-
-Prophet - Prophet - Time-series forecasting for data with heavy seasonality/holidays
-
-TabNet - Tabular Network - Deep learning designed to work specifically on structured/table data
-
