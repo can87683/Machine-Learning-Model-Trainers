@@ -4,6 +4,29 @@ Running as Python scripts is most efficient.
 One Python Venv for all scripts with one heavy Pytorch setup
 
 
+
+# Machine-Learning-Model-Trainers
+
+Catboost (Categorical Boosting)
+
+CNN (Convolutional Neural Network)
+
+GRU (Gated Recurrent Unit)
+
+LightGBM (Light Gradient Boosting Machine)
+
+LSTM (Long Short-Term Memory)
+
+PatchTFT (Patch Time Series Transformer)
+
+TCN (Temporal Convolutional Network)
+
+TFT (Temporal Fusion Transformer)
+
+XGBoost (Extreme Gradient Boosting)
+
+
+
 # Compiling
 If you must run as binary:
 
@@ -19,23 +42,3 @@ But each trainer binary will be very heavy with full Pytorch et al bundled (abou
 
 Better run as Python scripts in Venv
 
-
-# Machine-Learning-Model-Trainers
-
-Catboost (Categorical Boosting)
-
-CNN (Convolutional Neural Network)
-
-GRU (Gated Recurrent Unit)
-
-LightGBM (Light Gradient Boosting Machine)
-
-LSTM (Long Short-Term Memory)
-
-PatchTFT (Successor to TFT model)
-
-TCN (Successor to CNN Model)
-
-TFT (Temporal Fusion Transformer)
-
-XGBoost (Extreme Gradient Boosting)
